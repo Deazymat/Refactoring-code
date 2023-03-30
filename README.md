@@ -4,7 +4,7 @@ This project is to help understand reformatting. This is a great skill for stude
 
 ## Table of Contents
 
-- [Introduction](#installation)
+- [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Screenshot](#screenshot)
@@ -12,6 +12,7 @@ This project is to help understand reformatting. This is a great skill for stude
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Github](#github)
 
 
 ## Introduction
@@ -40,7 +41,7 @@ To run this project you will need the following:
 
 Down below is a screen shot of website that is currently sill intact after reformatting.
 
-
+![Project Screenshot](https://github.com/Deazymat/HW1/blob/8448a1e7365ac0933604776ea021a7b9d0e63179/assets/images/screencapture-file-D-austinbootcamp-classhomework-Develop-index-html-2023-03-30-16_27_15.png"Screenshot of project")
 
 ## Installation
 
@@ -50,7 +51,7 @@ Down below is a screen shot of website that is currently sill intact after refor
 
 ## Usage
 
-This project had series of exercises to push to understand reformatting.
+This project had series of exercises to help understand reformatting.
 
 To get the best understanding out of this project you should:
 
@@ -60,8 +61,15 @@ To get the best understanding out of this project you should:
 
 ## Contributing
 
-Feel free to give any suggestions! More than welcomed!
+- Feel free to give any suggestions! More than welcomed!
 
 ## License
 
-Project protected under the [MIT License](LICENSE.md).
+- Project protected under the [MIT License](LICENSE.md).
+
+## Github
+
+This is a link to my github where you can view my project.
+
+- [Deazymat](https://github.com/Deazymat/Project-1)
+
