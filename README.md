@@ -26,16 +26,14 @@ UPDATED <DIV> TAGS TO CURRENT SEMANTIC HTML & CSS ELEMENTS.
 
 RELATED ELEMENT TAGS IN CSS GROUPED TO INCREASE EFFICIENCY AND CLEANLINESS.
 
-
-
 ## USAGE
 
-```md
-    ![alt text](assets/images/screenshot.png)
+TOP OF THE PAGE YOU CAN SEE WE HAVE THE THREE CLICKABLE LINKS IF NEED BE TO BRING YOU WHERE YOU WANT TO BE DIRECTED TO IN THE WEBSITE. IN THE SCREEN SHOT BELOW
+
+    ```md
+    ![Top of page shows three clickable nav links.](assets\images\Screenshot 2023-03-29 232317.png)
     ```
 
+## OPEN LIVE SERVER
 
-
-## LICENSE
-
-Repository contains quality README file with description, screenshot, and link to deployed application.
+<http://127.0.0.1:5500/index.html>
