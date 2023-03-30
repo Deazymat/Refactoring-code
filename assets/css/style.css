@@ -19,16 +19,18 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#seo{
+#seo {
     color: #d9dcd6;
     background-color: #2a607c;
 }
@@ -45,6 +47,7 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 img {
     max-height: 200px;
 }
@@ -67,7 +70,8 @@ p {
     background-position: center;
 }
 
-.float-left,.float-right {
+.float-left,
+.float-right {
     float: left;
     margin-right: 25px;
     margin-left: 25px;
@@ -90,12 +94,16 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-brand,.benefit-cost,.benefit-lead {
+.benefit-brand,
+.benefit-cost,
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.online-reputation-management,.search-engine-optimization,.social-media-marketing {
+.online-reputation-management,
+.search-engine-optimization,
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
