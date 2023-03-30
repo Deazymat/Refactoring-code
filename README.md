@@ -14,7 +14,6 @@ This project is to help understand reformatting. This is a great skill for stude
 - [License](#license)
 - [Github](#github)
 
-
 ## Introduction
 
 Reformatting is such a great skill to learn as a student. Proficiency and reputations is key to understanding elements to help show reformatted code to customer specs. This project is aimed to give us experience with presentations, as well as to be able to reformat correctly and understandable.
