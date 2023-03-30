@@ -40,7 +40,7 @@ To run this project you will need the following:
 
 Down below is a screen shot of website that is currently sill intact after reformatting.
 
-![Project Screenshot](https://github.com/Deazymat/HW1/blob/8448a1e7365ac0933604776ea021a7b9d0e63179/assets/images/screencapture-file-D-austinbootcamp-classhomework-Develop-index-html-2023-03-30-16_27_15.png"Screenshot of project")
+![Project Screenshot](https://github.com/Deazymat/HW1/blob/a37da44553b3cfe81788aa5b0b5996a22bd09a08/assets/images/screencapture-127-0-0-1-5500-index-html-new.png"Screenshot of project")
 
 ## Installation
 
@@ -68,7 +68,7 @@ To get the best understanding out of this project you should:
 
 ## Github
 
-This is a link to my github where you can view my project.
+View my github project below.
 
 - [Deazymat](https://github.com/Deazymat/Project-1)
 
