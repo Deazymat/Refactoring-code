@@ -1,22 +1,19 @@
-# <HW1>
+# Project-1
 
-## DESCRIPTION
+This project is to help understand reformatting. This is a great skill for students. It is great to learn how to solve corrections with HTML and CSS. Great experience to learn early on to be able to maintain up to-date format.
 
-LEARN AS MUCH AS I CAN, WHILE I CAN, AND HAVE SOME FUN WITH REFACTORING SOME PREVIOUS CODE.
+## Table of Contents
 
-PROJECT HELPED UNDERSTAND WHAT & HOW A ON-THE-JOB TICKET IS TO BE PROCESSED.
-
-SOLVED CORRECTIONS WITH THE HTML & CSS ELEMENTS BY FORMATING THE CONTENT TO BE QUICKER TO READ AND UNDERSTAND.
-
-GAINED HOW TO REFACTOR THE PREVIOUS HTML & CSS TO THE NEW UP-DATED SEMANTIC HTML & CSS.
-
-FORMATTED CHALLENGES WHICH ARE COMMONLY PRACTICED WITH AGILE PROJECT MANAGEMENT.
-
-## TABLE OF CONTENTS
-
-- [INSTALLATION](#installation)
-
+- [Introduction](#installation)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [USAGE](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgem)
+
+## Introduction
 
 ## INSTALLATION
 
@@ -36,4 +33,3 @@ TOP OF THE PAGE YOU CAN SEE WE HAVE THE THREE CLICKABLE LINKS IF NEED BE TO BRIN
 
 ## OPEN LIVE SERVER
 
-<http://127.0.0.1:5500/index.html>
