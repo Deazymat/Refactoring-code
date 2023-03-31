@@ -1,4 +1,4 @@
-# Project-1
+# Refactoring code
 
 This project is to help understand reformatting. This is a great skill for students. It is great to learn how to solve corrections with HTML and CSS. Great experience to learn early on to be able to maintain up to-date format.
 

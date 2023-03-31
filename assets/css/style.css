@@ -20,7 +20,7 @@ h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/* added id to match the color for the page */
 #seo {
   color: #d9dcd6;
   background-color: #2a607c;
@@ -33,7 +33,7 @@ nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-
+/* changed tag from div to nav */
 nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -52,7 +52,7 @@ h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* organized by priority */
 h3 {
   margin-bottom: 10px;
   text-align: center;
@@ -82,7 +82,7 @@ h3 {
   display: inline-block;
   margin-left: 20px;
 }
-
+/* combined similar */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -93,23 +93,23 @@ h3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* combined into a class */
 .benefit-group {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* combined into a class */
 .benefit-group h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* combined into a class */
 .benefit-group img {
   display: block;
-  margin: 10px auto;
+  margin: 30px auto;
   max-width: 150px;
 }
-
+/* combined into class */
 .online-reputation-management,
 .search-engine-optimization,
 .social-media-marketing {
@@ -120,7 +120,7 @@ h3 {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* moved to bottom of page */
 .footer {
   padding: 30px;
   clear: both;
