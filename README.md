@@ -40,7 +40,7 @@ To run this project you will need the following:
 
 Down below is a screen shot of website that is currently sill intact after reformatting.
 
-![Project Screenshot](https://github.com/Deazymat/HW1/blob/a37da44553b3cfe81788aa5b0b5996a22bd09a08/assets/images/screencapture-127-0-0-1-5500-index-html-new.png"Screenshot of project")
+![Project Screenshot](https://github.com/Deazymat/HW1/blob/aea34b31dd913588c88fba39f58fc90103ebfbfd/assets/images/screencapture-127-0-0-1-5500-index-html-2023-03-30-21_16_48%202121.png"Screenshot of project")
 
 ## Installation
 
